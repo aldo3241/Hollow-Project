@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 66: expected statement.
-    1
-     ^
+File "game/script.rpy", line 111: expected ':' not found.
+    label hide_from_monster
+                           ^
 
 Ren'Py Version: Ren'Py 8.2.3.24061702
-Mon Aug  5 21:13:08 2024
+Tue Aug 13 16:26:16 2024
